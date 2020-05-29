@@ -1,0 +1,1 @@
+App that extracts song features from a Spotify playlist. The purpose of this project is to visualize the distribution of song features in a playlist. This projects communicates with the Spotify API to read playlist data, extracts quantitative song features(like tempo, acousticness etc..) and plots the figures using matplotlib.
